@@ -1,0 +1,7 @@
+{
+  "name": "PakAir-ML: Pakistan Air Quality Predictor",
+  "description": "An advanced AI-powered platform for predicting and monitoring Air Quality Index (AQI) across major Pakistani cities, featuring multi-day forecasting and health-risk analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

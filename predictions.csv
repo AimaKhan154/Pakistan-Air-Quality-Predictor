@@ -1,0 +1,17 @@
+
+City,Date,Predicted_AQI,Category,Forecast_Lead_Time
+Lahore,2024-05-20,195,Unhealthy,1 Day
+Lahore,2024-05-21,210,Very Unhealthy,2 Days
+Lahore,2024-05-22,180,Unhealthy,3 Days
+Karachi,2024-05-20,85,Moderate,1 Day
+Karachi,2024-05-21,92,Moderate,2 Days
+Karachi,2024-05-22,78,Moderate,3 Days
+Islamabad,2024-05-20,58,Moderate,1 Day
+Islamabad,2024-05-21,62,Moderate,2 Days
+Islamabad,2024-05-22,54,Good,3 Days
+Peshawar,2024-05-20,168,Unhealthy,1 Day
+Peshawar,2024-05-21,175,Unhealthy,2 Days
+Peshawar,2024-05-22,155,Unhealthy,3 Days
+Faisalabad,2024-05-20,148,Unhealthy for Sensitive Groups,1 Day
+Faisalabad,2024-05-21,152,Unhealthy,2 Days
+Faisalabad,2024-05-22,140,Unhealthy for Sensitive Groups,3 Days
