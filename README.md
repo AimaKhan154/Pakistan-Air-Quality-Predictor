@@ -1,9 +1,10 @@
-#🇵🇰 PakAir-ML: AI-Powered Pakistan Air Quality Predictor
+🇵🇰 PakAir-ML: AI-Powered Pakistan Air Quality Predictor
 
-PakAir-ML is an intelligent air quality prediction and monitoring platform that uses Machine Learning and Generative AI to forecast Air Quality Index (AQI) and provide personalized health recommendations for major cities in Pakistan. The system combines a Scikit-learn regression model for AQI forecasting with Google Gemini AI for health-risk analysis, delivered through a modern React dashboard.
+PakAir-ML is an intelligent air quality prediction and monitoring platform that uses Machine Learning and Generative AI to forecast Air Quality Index (AQI) and provide personalized health recommendations for major cities in Pakistan.
 
-#🌟 Features
+The system combines a Scikit-learn regression model for AQI forecasting with Google Gemini AI for health-risk analysis, delivered through a modern React dashboard.
 
+🌟 Features
 📊 Real-Time AQI Monitoring
 
 Displays AQI levels for major Pakistani cities
@@ -41,7 +42,7 @@ Built with React 19 and Tailwind CSS
 Fully responsive for desktop and mobile
 
 🛠️ Tech Stack
-Frontend
+🚀 Frontend
 
 React 19
 
@@ -53,7 +54,7 @@ Recharts
 
 Lucide React
 
-Backend / Machine Learning
+🧠 Backend / Machine Learning
 
 Python 3.12
 
@@ -63,48 +64,30 @@ Pandas (Data Processing)
 
 NumPy (Numerical Computation)
 
-Artificial Intelligence
+🤖 Artificial Intelligence
 
 Google Gemini API (Large Language Model)
 
 Used for health insights and risk recommendations
 
-Optional Visualization
+📊 Optional Visualization
 
-Streamlit dashboard
+Streamlit Dashboard
 
 🤖 Machine Learning Model
 
-PakAir-ML uses a supervised machine learning regression algorithm to predict AQI values.
+PakAir-ML uses a supervised machine learning regression algorithm to predict future Air Quality Index (AQI) values based on historical air quality data.
 
-Workflow:
+📌 Algorithm Used
+🔹 Regression Model (Scikit-learn)
 
-Data collection and preprocessing using Pandas
-
-Training regression model using Scikit-learn
-
-Predicting future AQI values
-
-Exporting predictions to predictions.csv
-
-Displaying predictions in React dashboard
-
-Generating health insights using Gemini AI
-
-🤖 Machine Learning Model Used
-
-PakAir-ML uses a supervised machine learning regression model to predict future Air Quality Index (AQI) values based on historical air quality data.
-
-Algorithm
-
-Regression Model (Scikit-learn)
 Used to predict continuous AQI values for upcoming days.
 
-Why Regression?
+❓ Why Regression?
 
 AQI prediction is a numerical forecasting problem, so regression algorithms are ideal for predicting continuous values based on historical patterns.
 
-ML Pipeline Workflow
+⚙️ ML Pipeline Workflow
 
 Data Collection – AQI dataset from Pakistani cities
 
@@ -120,7 +103,9 @@ Output Storage – Saving predictions in predictions.csv
 
 Visualization – Displaying results in React dashboard
 
-Libraries Used
+AI Health Insights – Generating recommendations using Gemini AI
+
+📚 Libraries Used
 
 Scikit-learn – Machine Learning model
 
