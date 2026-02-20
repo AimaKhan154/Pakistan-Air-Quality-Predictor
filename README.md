@@ -1,8 +1,9 @@
-🇵🇰 PakAir-ML: AI-Powered Pakistan Air Quality Predictor
+#🇵🇰 PakAir-ML: AI-Powered Pakistan Air Quality Predictor
 
 PakAir-ML is an intelligent air quality prediction and monitoring platform that uses Machine Learning and Generative AI to forecast Air Quality Index (AQI) and provide personalized health recommendations for major cities in Pakistan. The system combines a Scikit-learn regression model for AQI forecasting with Google Gemini AI for health-risk analysis, delivered through a modern React dashboard.
 
-🌟 Features
+#🌟 Features
+
 📊 Real-Time AQI Monitoring
 
 Displays AQI levels for major Pakistani cities
