@@ -131,9 +131,20 @@ Python – ML backend environment
 
 📸 Screenshots
 <img width="1904" height="904" alt="image" src="https://github.com/user-attachments/assets/c00290dc-e7b4-4bfc-b82b-079b4a5506c1" />
+
 <img width="1903" height="847" alt="image" src="https://github.com/user-attachments/assets/61108040-d82e-4f89-8146-410eff9b5135" />
+
+
+<img width="1894" height="908" alt="image" src="https://github.com/user-attachments/assets/feab0002-a1ce-4010-aec2-20e7b2391625" />
+
+<img width="1857" height="643" alt="image" src="https://github.com/user-attachments/assets/c6687a62-b2d1-4dfc-8317-ee2e33d7c292" />
+
+
+
 <img width="1906" height="835" alt="image" src="https://github.com/user-attachments/assets/96f58acc-dfc3-4cdb-a8b6-57679ba32682" />
+
 <img width="1853" height="806" alt="image" src="https://github.com/user-attachments/assets/f81d0f46-4b4c-4cbf-abfb-64df30f42f82" />
+
 <img width="1771" height="476" alt="image" src="https://github.com/user-attachments/assets/28f43f01-a1c5-4ba2-adfd-4fcfda472968" />
 
 
