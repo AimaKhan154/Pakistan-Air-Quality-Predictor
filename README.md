@@ -23,8 +23,8 @@ The system combines a Scikit-learn regression model for AQI forecasting with Goo
 <img width="1771" height="476" alt="image" src="https://github.com/user-attachments/assets/28f43f01-a1c5-4ba2-adfd-4fcfda472968" />
 
 
-# 🌟 Features
-# 📊 Real-Time AQI Monitoring
+## 🌟 Features
+## 📊 Real-Time AQI Monitoring
 
 Displays AQI levels for major Pakistani cities
 
@@ -32,7 +32,7 @@ Clean and responsive dashboard interface
 
 Easy-to-understand AQI visualization
 
-# 🤖 Machine Learning AQI Prediction
+## 🤖 Machine Learning AQI Prediction
 
 Predicts AQI for upcoming days using trained regression models
 
@@ -40,7 +40,7 @@ Built using Scikit-learn, Pandas, and NumPy
 
 Provides accurate and structured prediction outputs
 
-# 🧠 AI-Powered Health Recommendations
+## 🧠 AI-Powered Health Recommendations
 
 Integrated with Google Gemini API
 
@@ -48,13 +48,13 @@ Generates personalized health advice based on AQI levels
 
 Helps users understand air pollution risks
 
-# 📈 Interactive Data Visualization
+## 📈 Interactive Data Visualization
 
 Dynamic trend charts and graphs using Recharts
 
 Forecast visualization for better analysis
 
-# 🎨 Modern Responsive UI
+## 🎨 Modern Responsive UI
 
 Built with React 19 and Tailwind CSS
 
@@ -62,7 +62,7 @@ Fully responsive for desktop and mobile
 
 ## 🛠️ Tech Stack
 
-# 🚀 Frontend
+## 🚀 Frontend
 
 React 19
 
@@ -74,7 +74,7 @@ Recharts
 
 Lucide React
 
-# 🧠 Backend / Machine Learning
+## 🧠 Backend / Machine Learning
 
 Python 3.12
 
